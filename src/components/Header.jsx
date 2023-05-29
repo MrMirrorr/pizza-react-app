@@ -16,7 +16,7 @@ const Header = () => {
 					<div className='header__logo'>
 						<img
 							width='38'
-							src={process.env.PUBLIC_URL + './img/pizza-logo.svg'}
+							src={process.env.PUBLIC_URL + '/img/pizza-logo.svg'}
 							alt='Pizza logo'
 						/>
 						<div>
